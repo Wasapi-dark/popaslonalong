@@ -1,0 +1,13 @@
+h1{
+  color: #00FA9A;
+  background-color: #FFD700;
+  margin: 50px;
+  font-family: "Comic Sans MS";
+  border: 20px solid;
+  border-color: #4682B4;
+}
+p{
+  font-family: "Comic Sans MS";
+  color: #FFD700;
+  margin:50px;
+}
